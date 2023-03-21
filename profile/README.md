@@ -1,8 +1,9 @@
-An exploration in democratizing machine learning technology and the infrastructures that support it.
+### Machine Learning Headquarters
+#An exploration in democratizing machine learning technology and the infrastructures that support it.
 
-Goals and Ideals:  
-  Creating scaleable, affordable hardware for those interested in learning and contributing to machine learning.  
-  Open Source education and designs.  
+#Goals and Ideals:  
+  -Creating scaleable, affordable hardware for those interested in learning and contributing to machine learning.  
+  -Open Source education and designs.  
   
   What is the first hurdle that needs to be overcome? What's the smallest goal we can meet while making some sort of difference?  
   All of the goals below can be done independently in ways that will have an impact (I think), the easiest is by creating a compendium of
