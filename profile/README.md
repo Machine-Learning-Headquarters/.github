@@ -22,7 +22,7 @@
   
 ## Stretch goals:  
   <li>Open source blade for expanding commonly available systems like the RPi.</li>
-  <li>Open Source wrack motherboard for connecting those blades to an ethernet link (the blade is probably useless without this)  </li>
+  <li>Open Source rack motherboard for connecting those blades to an ethernet link (the blade is probably useless without this)  </li>
   <li>Open source CPUs that can slot into the blade. This requires new designs all the way down.</li>
 
 
