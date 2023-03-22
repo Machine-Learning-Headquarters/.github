@@ -28,4 +28,4 @@
 
 
 ## Current Configuration:  
-  A plurality of [CPUs](<https://github.com/Machine-Learning-Headquarters/CPUDesign> "Current CPU designs") are mounted to a ["blade"](<https://github.com/Machine-Learning-Headquarters/BladeArchitectures> "Current designs for CPU mount board") that allows an interface into a wrack mounted motherboard, more than likely through a PCIe bus. These motherboards can be stacked and expanded through high speed ethernet interfaces that link to high speed network switches in order to expand a supercomputer cluster further.
+  A plurality of [CPUs](<https://github.com/Machine-Learning-Headquarters/CPUDesign> "Current CPU designs") are mounted to a ["blade"](<https://github.com/Machine-Learning-Headquarters/BladeArchitectures> "Current designs for CPU mount board") that allows an interface into a rack mounted motherboard, more than likely through a PCIe bus. These motherboards can be stacked and expanded through high speed ethernet interfaces that link to high speed network switches in order to expand a supercomputer cluster further.
