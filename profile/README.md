@@ -6,6 +6,8 @@
   <u1>
     <li>   Creating scaleable, affordable hardware for those interested in learning and contributing to machine learning.</li>
     <li>   Open Source education and designs.</li>
+    <li>   Lower the barrier to entry for AI, ML, and supercomputing. </li>
+    <li>   This is not a startup, this is a lifestyle. A mission.</li>
   </u1>
   
   <br> 
