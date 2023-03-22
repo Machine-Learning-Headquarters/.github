@@ -25,6 +25,8 @@
   Can we produce a risc-v processor that uses DDR5, PCIE5, 10Gbe network, and runs C/python without paying license fees?
   
   What is the fastest way to connect nodes in a cluster that is "plug and play" (just buy more nodes, not more connectors, or bigger nodes)
+  
+  Is it possible to run nvidia CUDA software on risc-v? If not what is a realistic alternative to CUDA that is actually competative. Is there something close to a drop in replacement? What does that look like?
 
 ## Minimum Viable Product:  
   <li>A high speed, low cost network interface.</li>
