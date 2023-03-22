@@ -16,6 +16,15 @@
   the super expandable super clusters). From previous conversation, it sounds like the current bottleneck is affordable high speed network
   technology, so we can start by understanding that and then tackling other avenues.
 
+  What does it take to run popular machine learning models (huggingface) on risc-v hardware.
+  
+  What makes a super computer? Memory Bandwidth? CPU Clock? Instructions per clock? 200,000 nodes?
+  
+  Can we use the same hardware to scale a super computer from $100 to $100 million?
+  
+  Can we produce a risc-v processor that uses DDR5, PCIE5, 10Gbe network, and runs C/python without paying license fees?
+  
+  What is the fastest way to connect nodes in a cluster that is "plug and play" (just buy more nodes, not more connectors, or bigger nodes)
 
 ## Minimum Viable Product:  
   <li>A high speed, low cost network interface.</li>
