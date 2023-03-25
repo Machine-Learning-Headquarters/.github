@@ -32,6 +32,8 @@
   Is it possible to run nvidia CUDA software on risc-v? If not what is a realistic alternative to CUDA that is actually competative. Is there something close to a drop in replacement? What does that look like? Does VULKAN+SPIR-V fit in here?
   
   Can Kubernetes run on a risc-v cluster? 
+  
+  Can FreeNAS run on a risc-v cluster? 
 
 ## Minimum Viable Product:  
   <li>150 Intel NUC kubernetes cluster benchmark training and inference for statistical learning and ML Transformers for NLP</li>
